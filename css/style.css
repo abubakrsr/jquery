@@ -1,0 +1,169 @@
+
+body{
+	background-color: #d7f5bb;
+}
+
+.container{
+	width: 90%;
+	margin: 0 auto;
+}
+
+.head-bar{
+	overflow: hidden;
+	border-bottom: 1px solid #054431;
+}
+
+
+.logo a{
+	color: #054431;
+	float: left;
+	text-decoration: none;
+}
+#logo{
+	position: relative; 
+	left: 10px;
+}
+
+.menu{
+	float: right;
+}
+
+.menu ul{
+	    margin-top: 25px;
+}
+.menu ul li{
+	margin: 0 15px;
+	font-size: 17px;
+	float: left;
+	list-style: none;
+}
+.menu ul li:last-child{
+	margin-right: 70px;
+}
+.menu ul li a{
+	font-weight: 600;
+	color: #054431;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-decoration: none;
+}
+
+.h3{
+	padding: 10px 0;
+	font-size: 50px;
+	color: #054431;
+	text-align: center;
+	letter-spacing: 3px;
+	
+
+}
+
+.btn {
+    margin: 0 90px;
+    padding: 11px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #d7f5bb;
+    background-color: #054431;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.btn:hover{
+	color: #054431;
+	background-color: #d7f5bb;
+}
+
+.project{
+	margin: 50px 0;
+}
+.congg{
+	display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 25px;
+    justify-items: center;
+    align-items: center;}
+
+.box{
+	margin-top: 10px;
+	width: 100%;
+	height: auto;
+	min-height: 200px;
+	background-color: white;
+}
+
+.p h3, .p p{
+	text-align: center;
+}
+
+.p4{
+	    padding: 0 5px;
+	    position: relative;
+	    overflow: hidden;
+}
+
+.rv, .stp, .srt{
+	margin: 5px 8px;
+	padding: 7px 16px;
+}
+
+.car{
+	position: absolute;
+	left: 0;
+	width: 80px;
+	height: 50px;
+}
+
+#img2, #img3 {
+    margin-top: 13px;
+    margin-left: 54px;
+    width: 59px;
+    height: 40px;
+}
+
+#slide{
+	background-color: lightskyblue;
+}
+
+#slide1{
+	background-color: lightcyan;
+}
+
+#slide2{
+	background-color: blue;
+	color: white;
+}
+#btn6{
+	display: none;
+}
+.p7{
+	position: relative;
+}
+.box-2{
+	width: 50px;
+	height: 50px;
+	margin-left: 10px;
+	background-color: green;
+	position: absolute;
+	left: 0;
+	bottom: 7px;
+}
+
+#btn88{
+	display: none;
+}
+
+.b{
+	margin-top: 30px;
+}
+
+.tef{
+	margin: 10px 23px 0;
+    padding: 3px;
+    width: 80%;
+}
+
+.vs{
+	text-align: center;
+}
+
